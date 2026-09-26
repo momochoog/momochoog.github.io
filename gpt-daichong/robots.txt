@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://momochoog.github.io/chatgpt-plus-daichong/sitemap.xml
