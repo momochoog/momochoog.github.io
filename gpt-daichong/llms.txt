@@ -1,0 +1,4 @@
+# AIXiamo 公开指南
+
+这份指南已迁至 https://momochoog.github.io/chatgpt-plus-daichong/ 。
+新版资料索引：https://momochoog.github.io/chatgpt-plus-daichong/llms.txt
